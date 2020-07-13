@@ -1,0 +1,22 @@
+{
+  "information": [
+    {
+      "name": "Ram maharjan",
+      "contact": "9860461212",
+      "address": "Kirtipur",
+      "url": "./img/student1.jpg"
+    },
+    {
+      "name": "shyam maharjan",
+      "contact": "9860471212",
+      "address": "Kirtipur",
+      "url": "./img/student2.jpg"
+    },
+    {
+      "name": "Hari maharjan",
+      "contact": "9860481212",
+      "address": "Kirtipur",
+      "url": "./img/student3.png"
+    }
+  ]
+}
