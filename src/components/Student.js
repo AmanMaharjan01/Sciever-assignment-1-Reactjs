@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
 
-export default function Carousel({ datas }) {
+export default function Student({ datas }) {
   return (
     <div className="carousel">
       <div className="boxes">

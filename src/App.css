@@ -1,5 +1,13 @@
+a {
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+}
+
 .carousel {
-  width: 65%;
+  width: 100%;
   margin: 50px auto;
 }
 
