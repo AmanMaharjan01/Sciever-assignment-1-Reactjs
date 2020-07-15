@@ -1,18 +1,21 @@
 {
   "information": [
     {
+      "id": "1",
       "name": "Ram maharjan",
       "contact": "9860461212",
       "address": "Kirtipur",
       "url": "./img/student1.jpg"
     },
     {
+      "id": "2",
       "name": "shyam maharjan",
       "contact": "9860471212",
       "address": "Kirtipur",
       "url": "./img/student2.jpg"
     },
     {
+      "id": "3",
       "name": "Hari maharjan",
       "contact": "9860481212",
       "address": "Kirtipur",
